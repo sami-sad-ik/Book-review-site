@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "bookName": "The Silent Echo",
+    "author": "Jane Harper",
+    "image": "/book1.jpg",
+    "review": "The Silent Echo is an evocative mystery novel that grips the reader from the first page. The story is not only filled with suspense, but it also delves into the emotional intricacies of the characters’ lives. Jane Harper paints a vivid picture of a town haunted by secrets, and the main character’s relentless pursuit of truth leads to unpredictable twists. What stands out the most is how Harper skillfully combines a strong emotional narrative with the unraveling of a mystery. The final revelation is both surprising and satisfying, leaving the reader to ponder the deeper themes of loss, guilt, and redemption. A must-read for fans of psychological thrillers.",
+    "totalPages": 320,
+    "rating": 4.7,
+    "category": "Mystery",
+    "tags": ["Suspense", "Psychological", "Thriller"],
+    "publisher": "Harper & Co.",
+    "yearOfPublishing": 2019
+  },
+  {
+    "id": "2",
+    "bookName": "Beneath the Stars",
+    "author": "Samuel Carter",
+    "image": "/book2.jpg",
+    "review": "Beneath the Stars is a beautifully crafted romance novel that takes the reader on a journey through time and emotions. The story spans decades, capturing the heartache and passion of a love that seems destined, yet constantly just out of reach. Carter’s writing is incredibly poetic, each sentence dripping with emotion. What makes this book stand out is how it doesn’t shy away from the complexities of life and love – it portrays the protagonists' flaws and vulnerabilities in a raw and authentic manner. The historical backdrop adds richness to the narrative, and the ending, while bittersweet, is both realistic and moving. An emotional rollercoaster from start to finish.",
+    "totalPages": 410,
+    "rating": 4.3,
+    "category": "Romance",
+    "tags": ["Drama", "Historical", "Love Story"],
+    "publisher": "Starfall Publishing",
+    "yearOfPublishing": 2021
+  },
+  {
+    "id": "3",
+    "bookName": "Whispers of the Forgotten",
+    "author": "Olivia Shaw",
+    "image": "/book3.jpg",
+    "review": "Whispers of the Forgotten is a fast-paced thriller that keeps the reader on edge with its relentless action and intricate plot twists. Olivia Shaw masterfully builds tension, layering clues and red herrings that lead to an explosive climax. What sets this book apart from typical thrillers is the depth of its characters – each has their own dark past and hidden motives, making it difficult to know who to trust. The narrative is driven by sharp dialogue and a series of tense, unpredictable events that make it impossible to put down. If you enjoy crime thrillers that leave you guessing until the very end, this is the book for you.",
+    "totalPages": 290,
+    "rating": 4.9,
+    "category": "Thriller",
+    "tags": ["Action", "Mystery", "Crime"],
+    "publisher": "Thunder Books",
+    "yearOfPublishing": 2020
+  },
+  {
+    "id": "4",
+    "bookName": "Winds of Change",
+    "author": "Emily Reed",
+    "image": "/book4.jpg",
+    "review": "Winds of Change is a heartfelt exploration of self-discovery and personal growth. Emily Reed brings to life the story of a woman finding herself after a life-changing event. The book is full of poignant moments that reflect on the importance of embracing change, letting go of the past, and finding strength in vulnerability. The pacing is deliberate, allowing readers to fully immerse themselves in the protagonist’s emotional journey. Reed’s writing is thoughtful and introspective, making this more than just a typical drama. It’s an uplifting story about resilience, hope, and the beauty of starting over.",
+    "totalPages": 360,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Inspiration", "Self-Discovery", "Drama"],
+    "publisher": "New Horizon Press",
+    "yearOfPublishing": 2018
+  },
+  {
+    "id": "5",
+    "bookName": "The Quantum Paradox",
+    "author": "Alexander Grey",
+    "image": "/book5.jpg",
+    "review": "The Quantum Paradox is an exhilarating sci-fi adventure that takes the reader through time and space. Alexander Grey manages to combine complex scientific theories with a gripping narrative that is accessible to both hardcore sci-fi fans and casual readers. The story revolves around a group of scientists who, while attempting to solve one of the universe’s greatest mysteries, find themselves entangled in a reality-bending conflict. What makes this novel stand out is the way Grey explores the philosophical implications of time travel and quantum mechanics, making the reader question the very nature of reality. A thought-provoking and thrilling read.",
+    "totalPages": 450,
+    "rating": 4.8,
+    "category": "Science Fiction",
+    "tags": ["Sci-Fi", "Adventure", "Time Travel"],
+    "publisher": "Galactic Reads",
+    "yearOfPublishing": 2022
+  },
+  {
+    "id": "6",
+    "bookName": "The Culinary Journey",
+    "author": "Martha Ellis",
+    "image": "/book6.jpg",
+    "review": "The Culinary Journey is more than just a cookbook – it’s an exploration of culture through the lens of food. Martha Ellis takes readers on a global tour, sharing not just recipes, but stories and traditions behind the dishes. The vivid descriptions of flavors and ingredients transport you to the heart of each country she visits. What I love most about this book is how it combines culinary expertise with a personal narrative – you feel like you’re right there in the kitchen with Ellis, learning not just how to cook, but why food is so deeply tied to our identity and history. A delightful read for food lovers and cultural enthusiasts alike.",
+    "totalPages": 275,
+    "rating": 4.6,
+    "category": "Non-Fiction",
+    "tags": ["Food", "Travel", "Culture"],
+    "publisher": "Global Table Publishing",
+    "yearOfPublishing": 2017
+  }
+]
